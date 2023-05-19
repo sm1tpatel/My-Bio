@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Smit Patel</title>
+    Smit Patel
     <link rel="stylesheet" href="styles.css">
 </head>
     <body> 
